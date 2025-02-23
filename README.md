@@ -3,7 +3,7 @@
 - This following repositroy showcases a frontend design of YouTube through the application of different concepts and functionalities of HTML and CSS
 - The process of making this is based on a 6 hour course by SuperSimpleDev entitled "HTML & CSS Full Course - Beginner to Pro"
 - Link to the video: https://www.youtube.com/watch?v=G3e-cpL7ofc
-- Link to the website I made: https://hansgan.github.io/YouTube-Clone-Frontend/youtube-clone.html
+- Link to the website I made: https://hansgan.github.io/YouTube-Clone-Frontend/
 
 ## Thoughts on this Course
 
