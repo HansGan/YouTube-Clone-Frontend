@@ -6,7 +6,7 @@
 
 ## Thoughts on this Course
 
-- I took this course as my first step in learning web development. This course without a doubt did not disappoint it's title "Beginner to Pro". It tackled everything
-  that you need to know to build any type of website through the use of flexbox or grid display styles and how to elagantly style your website through different CSS techniques
+- I took this course as my first step in learning web development. This course without a doubt did not disappoint its title, "Beginner to Pro". It tackled everything
+  that you needed to know on how to build any type of website through the use of flexbox or grid display styles and how to elagantly style your website through different CSS techniques
   and tools. Overall, this 6 hour course is a great time investment for any one who wants a career in web development or just for fun to impress your friends. Feel free to use
   this code for educational purposes!
